@@ -1,6 +1,6 @@
 title: Soft Reset (1.0.1)
 originalAuthor: Denhonator
-description: OpenKH port of Denhonator's KH2 soft reset script.
+description: OpenKH port of Denhonator's KH2 soft reset script. In-game, press L1+L2+R1+R2+Start (or equivalent on your input device).
 assets:
 - name: scripts/2fmSoftReset_v1.0.0.8.lua
   method: copy
