@@ -1,8 +1,8 @@
-title: Soft Reset (1.0.1)
+title: Soft Reset Steam/Epic 1.0.0.9
 originalAuthor: Denhonator
-description: OpenKH port of Denhonator's KH2 soft reset script.
+description: OpenKH port of Denhonator's KH2 soft reset script. Supports Steam and Epic 1.0.0.9
 assets:
-- name: scripts/2fmSoftReset_v1.0.0.8.lua
+- name: scripts/2fmSoftReset.lua
   method: copy
   source:
-  - name: 2fmSoftReset_v1.0.0.8.lua
+  - name: 2fmSoftReset.lua
