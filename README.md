@@ -7,3 +7,9 @@ https://github.com/Denhonator/KHPCSpeedrunTools
 Icon by Televo.
 
 https://github.com/Televo/kingdom-hearts-recollection
+
+# Changelog
+
+## 2.0.0
+
+- Incorporate changes for game version 1.0.0.9
