@@ -1,8 +1,9 @@
-title: Soft Reset (2.0.0)
+title: Soft Reset (3.0.0)
 originalAuthor: Denhonator
 description: OpenKH port of Denhonator's KH2 soft reset script.
 assets:
 - name: scripts/2fmSoftReset.lua
+  platform: pc
   method: copy
   source:
   - name: 2fmSoftReset.lua
