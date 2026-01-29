@@ -15,6 +15,14 @@ In-game, press L1 + L2 + R1 + R2 + Start (or equivalent on your input device).
 
 # Changelog
 
+## 3.0.1
+
+(via @Sonicshadowsilver2)
+
+- Clear the current room data when a soft reset happens. This prevents the current room data before soft resetting
+  being the same on the title screen even after soft resetting and while loading an auto-save.
+- Prevent a softlock with Cutscene Skipper if a soft reset occurs while fighting Storm Rider
+
 ## 3.0.0
 
 - Update to use KH2 Lua Library (adds support for game version 1.0.0.10)
